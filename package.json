@@ -1,0 +1,15 @@
+{
+  "name": "price-finder",
+  "version": "1.0.0",
+  "description": "A simple app to find the best prices for products",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^23.2.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
